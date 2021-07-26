@@ -4,3 +4,5 @@ ffmpeg gerektirir YoutubeExplode kullanarak linkleri indirir ve .webm formatınd
 Linkler.txt içine alt alta link yapıştırın ve çalıştırın
 Müzikler klasöründe müzikler inecektir
 
+65.satırı isteğinize göre ffmpegin yerine göre değiştirin.
+
