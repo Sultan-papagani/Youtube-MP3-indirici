@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using YoutubeExplode.Videos.Streams;
 using System.Threading.Tasks;
 
+// ne kadar gereksiz uzun değil mi, en azından c# hızlı o yüzden şikayetçi değilim
+
 namespace YTmp3
 {
     class Program
