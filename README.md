@@ -8,3 +8,5 @@ video isminde özel karakter olan videolar hata veriyor düzeltmeye üşendim
 
 65.satırı isteğinize göre ffmpegin yerine göre değiştirin.
 
+paketi kullanmayın
+
